@@ -54,7 +54,7 @@ const Dashboard = () => {
                                     return (
                                         <tr key={i}>
                                             <td className='pro-row'> {x.id} </td>
-                                            <td className='pro-row'> <Image className='pro-img' rounded src={`https://api.dicebear.com/7.x/initials/svg?seed=${x.fullName}`} alt="" />  </td>
+                                            <td className='pro-row'> <Image className='pro-img' rounded src={`https://api.dicebear.com/7.x/initials/svg?seed=${x.fullName}`} alt={x.fullName} />  </td>
                                             <td className='pro-data'> {x.fullName} </td>
                                             <td className='pro-data'>
                                                 {x.mobileNo  &&  <>+91-{x.mobileNo}</> }

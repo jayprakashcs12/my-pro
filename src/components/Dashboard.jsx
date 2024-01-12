@@ -28,7 +28,7 @@ const Dashboard = () => {
         console.log(id);
         axiosInstance.delete(`contacts/${id}`);
         toast.info(`${id} deleted successfully...! `);
-        // window.location.assign("/dashboard")
+        window.location.assign("/dashboard")
     }
 
     return (

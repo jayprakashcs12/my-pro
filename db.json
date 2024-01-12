@@ -1,0 +1,164 @@
+{
+  "contacts": [
+    {
+      "fullName": "Manoj Kumar",
+      "mobileNo": "8536974201",
+      "emailID": "manoj@gmail.com",
+      "password": "544664",
+      "address": "0561 Kartik Dam, Duluth, Maharashtra - 624 970",
+      "id": 1
+    },
+    {
+      "fullName": "Priya Patel",
+      "mobileNo": "9876543210",
+      "emailID": "priya.patel@gmail.com",
+      "password": "abc123",
+      "address": "5493 Dubashi Path, Deependrashire, Jharkhand - 822 528",
+      "id": 2
+    },
+    {
+      "fullName": "Rahul Sharma",
+      "mobileNo": "7654321098",
+      "emailID": "rahul.sharma@mail.com",
+      "password": "pass@word",
+      "address": "143 Sinha Mall, West Lailand, Rajasthan - 842 855",
+      "id": 3
+    },
+    {
+      "fullName": "Asha Singh",
+      "mobileNo": "8765432109",
+      "emailID": "asha55@gmail.com",
+      "password": "secure567",
+      "address": "704 Embranthiri Inlet, Somayajimouth, Rajasthan - 011 658,",
+      "id": 4
+    },
+    {
+      "fullName": "Vikram Verma",
+      "mobileNo": "9081726354",
+      "emailID": "vikram.verma@gmail.com",
+      "password": "p@ssw0rd",
+      "address": "44020 Agrata Valleys, East Adityanandana, Haryana - 302 897",
+      "id": 5
+    },
+    {
+      "fullName": "Neha Sharma",
+      "mobileNo": "7458963210",
+      "emailID": "neha.sharma@mail.com",
+      "password": "userpass",
+      "address": "1489 Shrishti Port, North Dipankar, Kerala - 099 681",
+      "id": 6
+    },
+    {
+      "fullName": "Rajat Desai",
+      "mobileNo": "9845672310",
+      "emailID": "rajat.desai@gmail.com",
+      "password": "password123",
+      "address": "1812 Pillai Trace, Port Manisha, Kerala - 508 047",
+      "id": 7
+    },
+    {
+      "fullName": "Ananya Mehta",
+      "mobileNo": "7654321098",
+      "emailID": "ananya.mehta@gmail.com",
+      "password": "pass@word",
+      "address": "671 Mehrotra Locks, Mansfield, Uttarakhand - 986 741",
+      "id": 8
+    },
+    {
+      "fullName": "Gaurav Malhotra",
+      "mobileNo": "8765432109",
+      "emailID": "gaurav_m@gmail.com",
+      "password": "secure567",
+      "address": "49364 Varman Turnpike, New Anjaliton, Haryana - 960 978",
+      "id": 9
+    },
+    {
+      "fullName": "Sneha Kapoor",
+      "mobileNo": "9081726354",
+      "emailID": "sneha.kapoor@gmail.com",
+      "password": "p@ssw0rd",
+      "address": "8738 Nikita Route, Varrierburgh, Manipur - 429 333",
+      "id": 10
+    },
+    {
+      "fullName": "Rakesh Joshi",
+      "mobileNo": "7458963210",
+      "emailID": "rakesh.joshi@mail.com",
+      "password": "userpass",
+      "address": "6168 Subhashini Mountain, South Ganakmouth, Chandigarh - 257 132",
+      "id": 11
+    },
+    {
+      "fullName": "Pooja Singh",
+      "mobileNo": "9845672310",
+      "emailID": "pooja.singh@gmail.com",
+      "password": "password123",
+      "address": "849 Ganaka Hollow, Lake Kalinda, Meghalaya - 490 184",
+      "id": 12
+    },
+    {
+      "fullName": "Vishal Gupta",
+      "mobileNo": "7654321098",
+      "emailID": "vishal.gupta@gmail.com",
+      "password": "pass@word",
+      "address": "4964 Rohana Passage, West Jaifurt, Punjab - 499 159",
+      "id": 13
+    },
+    {
+      "fullName": "Anjali Patel",
+      "mobileNo": "8765432109",
+      "emailID": "anjali_p@gmail.com",
+      "password": "secure567",
+      "address": "1886 Guha Street, New Chandraayan, Bihar - 058 170",
+      "id": 14
+    },
+    {
+      "fullName": "Kunal Verma",
+      "mobileNo": "9081726354",
+      "emailID": "kunal.verma@gmail.com",
+      "password": "p@ssw0rd",
+      "address": "29485 Trivedi Fort, Lake Uttam, Haryana - 965 435",
+      "id": 15
+    },
+    {
+      "fullName": "Preeti Sharma",
+      "mobileNo": "7458963210",
+      "emailID": "preeti.sharma@mail.com",
+      "password": "userpass",
+      "address": "227 Varrier Tunnel, Bountiful, Assam - 401 227",
+      "id": 16
+    },
+    {
+      "fullName": "Amit Desai",
+      "mobileNo": "9845672310",
+      "emailID": "amit.desai@gmail.com",
+      "password": "password123",
+      "address": "9430 Dakshayani Walks, Mentor, Goa - 837 439",
+      "id": 17
+    },
+    {
+      "fullName": "Neha Mehta",
+      "mobileNo": "7654321098",
+      "emailID": "neha.mehta@gmail.com",
+      "password": "pass@word",
+      "address": "03090 Bhilangana Flat, Hialeah, Daman and Diu - 372 832",
+      "id": 18
+    },
+    {
+      "fullName": "Suresh Malhotra",
+      "mobileNo": "8765432109",
+      "emailID": "suresh_m@gmail.com",
+      "password": "secure567",
+      "address": "14917 Varman Drives, Khannafort, Dadar and Nagar Haveli - 603 574",
+      "id": 19
+    },
+    {
+      "fullName": "Sonia Kapoor",
+      "mobileNo": "9081726354",
+      "emailID": "sonia.kapoor@gmail.com",
+      "password": "pro@12345",
+      "address": "876 Adikavi Lodge, Pandeytown, Nagaland - 538 008",
+      "id": 20
+    }
+  ]
+}

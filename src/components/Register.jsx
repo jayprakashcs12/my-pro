@@ -23,11 +23,12 @@ const Register = () => {
     let [mobileNo, setMobileNo] = useState("");
     let [emailID, setEmailID] = useState("");
     let [password, setPassword] = useState("");
+    let [address, setAddress] = useState("");
 
     let saveUser = (e)=>{
         e.preventDefault()
         let payload = {
-            fullName, mobileNo, emailID, password
+            fullName, mobileNo, emailID, password, address
         }
         axiosInstance.post("contacts" , payload)
         toast.success(`${fullName} added successfully...!`)
@@ -64,6 +65,10 @@ const Register = () => {
                                 <Form.Label>Password</Form.Label>
                                 <Form.Control type={showPass ? 'text' : 'password'} className='form-input' name="password" value={password} onChange={(e)=>setPassword(e.target.value)} placeholder="Enter Your Password" />
                                 <i className={`toggle-pass bi ${showPass ? 'bi-eye' : 'bi-eye-slash'}`} onClick={handleTogglePass}></i>
+                            </Form.Group>
+                            <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1" style={{marginTop:"-30px"}}>
+                                <Form.Label>Address</Form.Label>
+                                <Form.Control as="textarea" rows={3} className='form-input' name="emailID" value={address} onChange={(e)=>setAddress(e.target.value)} placeholder="Enter Your Full address" />
                             </Form.Group>
                             <div className="btn-div">
                                 <Button variant="outline-primary" className='pro-btn log-btn' onClick={saveUser}>Submit</Button>
